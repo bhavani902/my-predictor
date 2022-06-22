@@ -96,18 +96,7 @@ const CollegePredictor = () => {
             Get Predictions
           </button>
         </div>
-        <div className="dev-links">
-          Made in Rajasthan by
-          &nbsp;
-          <a
-            className="dev-link"
-            target="_blank"
-            rel="noopener noreferrer"
-            href="https://github.com/2AMDevs/no-bs-college-predictor/"
-          >
-            2AM Devs
-          </a>
-        </div>
+        
       </div>
       <PredictionTable
         colleges={colleges}
