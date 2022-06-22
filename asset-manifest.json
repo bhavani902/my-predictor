@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/my-predictor/static/css/main.19d7d230.chunk.css",
+    "main.js": "/my-predictor/static/js/main.1698234b.chunk.js",
+    "main.js.map": "/my-predictor/static/js/main.1698234b.chunk.js.map",
+    "runtime-main.js": "/my-predictor/static/js/runtime-main.827d4cc6.js",
+    "runtime-main.js.map": "/my-predictor/static/js/runtime-main.827d4cc6.js.map",
+    "static/js/2.bbccb4b4.chunk.js": "/my-predictor/static/js/2.bbccb4b4.chunk.js",
+    "static/js/2.bbccb4b4.chunk.js.map": "/my-predictor/static/js/2.bbccb4b4.chunk.js.map",
+    "index.html": "/my-predictor/index.html",
+    "precache-manifest.7aa926da02a430a4e40594edd40a6b17.js": "/my-predictor/precache-manifest.7aa926da02a430a4e40594edd40a6b17.js",
+    "service-worker.js": "/my-predictor/service-worker.js",
+    "static/css/main.19d7d230.chunk.css.map": "/my-predictor/static/css/main.19d7d230.chunk.css.map",
+    "static/js/2.bbccb4b4.chunk.js.LICENSE.txt": "/my-predictor/static/js/2.bbccb4b4.chunk.js.LICENSE.txt",
+    "static/media/loading.svg": "/my-predictor/static/media/loading.d698c692.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.827d4cc6.js",
+    "static/js/2.bbccb4b4.chunk.js",
+    "static/css/main.19d7d230.chunk.css",
+    "static/js/main.1698234b.chunk.js"
+  ]
+}
